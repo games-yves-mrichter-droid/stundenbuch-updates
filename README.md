@@ -1,15 +1,15 @@
-<p align="center">
-  <img src="screenshots/01_hauptmenue.png" width="230" alt="Hauptmenü">
-  <img src="screenshots/02_kalender.png" width="230" alt="Kalender">
-  <img src="screenshots/04_stundenzettel.png" width="230" alt="Stundenzettel">
-</p>
-
 # Stundenbuch
 
 **Deine Arbeitszeit, Stundenzettel, Urlaub und Überstunden – in einer App.**
 Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf deinem Handy.
 
 ### [⬇️ Stundenbuch 2.7 herunterladen](https://github.com/games-yves-mrichter-droid/stundenbuch-updates/raw/main/Stundenbuch.apk)
+
+<p align="center">
+  <img src="screenshots/01_hauptmenue.png" width="32%" alt="Hauptmenü">
+  <img src="screenshots/02_kalender.png" width="32%" alt="Kalender">
+  <img src="screenshots/04_stundenzettel.png" width="32%" alt="Stundenzettel">
+</p>
 
 ---
 
@@ -50,11 +50,26 @@ Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf de
 
 ## Bilder
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="screenshots/03_tag.png" width="230"><br>Tag erfassen | <img src="screenshots/05_statistik.png" width="230"><br>Gesamtstatistik | <img src="screenshots/06_erfolge.png" width="230"><br>Erfolge |
-| <img src="screenshots/07_brueckentage.png" width="230"><br>Brückentag-Planer | <img src="screenshots/08_wetter.png" width="230"><br>Wetter-Auswertung | <img src="screenshots/09_heatmap.png" width="230"><br>Heatmap |
-| <img src="screenshots/10_dunkel.png" width="230"><br>Dunkler Modus | <img src="screenshots/11_einhorn.png" width="230"><br>🦄 Einhorn-Modus | <img src="screenshots/stundenzettel.png" width="230"><br>Stundenzettel als PDF |
+<p align="center">
+  <img src="screenshots/03_tag.png" width="32%" alt="Tag erfassen">
+  <img src="screenshots/05_statistik.png" width="32%" alt="Gesamtstatistik">
+  <img src="screenshots/06_erfolge.png" width="32%" alt="Erfolge">
+</p>
+<p align="center"><sub>Tag erfassen · Gesamtstatistik · Erfolge</sub></p>
+
+<p align="center">
+  <img src="screenshots/07_brueckentage.png" width="32%" alt="Brückentag-Planer">
+  <img src="screenshots/08_wetter.png" width="32%" alt="Wetter-Auswertung">
+  <img src="screenshots/09_heatmap.png" width="32%" alt="Heatmap">
+</p>
+<p align="center"><sub>Brückentag-Planer · Wetter-Auswertung · Heatmap</sub></p>
+
+<p align="center">
+  <img src="screenshots/10_dunkel.png" width="32%" alt="Dunkler Modus">
+  <img src="screenshots/11_einhorn.png" width="32%" alt="🦄 Einhorn-Modus">
+  <img src="screenshots/stundenzettel.png" width="32%" alt="Stundenzettel als PDF">
+</p>
+<p align="center"><sub>Dunkler Modus · 🦄 Einhorn-Modus · Stundenzettel als PDF</sub></p>
 
 <sub>Alle Bilder zeigen ausgedachte Beispieldaten.</sub>
 
