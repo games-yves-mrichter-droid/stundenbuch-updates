@@ -1,9 +1,11 @@
+<p align="center"><img src="icon.png" width="128" alt="Stundenbuch-Symbol"></p>
+
 # Stundenbuch
 
 **Deine Arbeitszeit, Stundenzettel, Urlaub und Überstunden – in einer App.**
 Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf deinem Handy.
 
-### [⬇️ Stundenbuch 2.7 herunterladen](https://github.com/games-yves-mrichter-droid/stundenbuch-updates/raw/main/Stundenbuch.apk)
+### [⬇️ Stundenbuch 2.7.1 herunterladen](https://github.com/games-yves-mrichter-droid/stundenbuch-updates/raw/main/Stundenbuch.apk)
 
 <p align="center">
   <img src="screenshots/01_hauptmenue.png" width="32%" alt="Hauptmenü">
@@ -83,10 +85,7 @@ Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf de
 
 Android 7 oder neuer.
 
-## Neu in 2.7
+## Neu in 2.7.1
 
-- Updates direkt in der App: Einstellungen → App & Updates
-- Download-Link mit Freunden teilen
-- Draußen/drinnen im Kalender und bei den Wetter-Erfolgen
-- Wetter-Auswertung und persönliche Erfolge
+- Neues App-Symbol
 

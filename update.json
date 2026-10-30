@@ -1,13 +1,10 @@
 {
-  "versionCode": 27,
-  "versionName": "2.7",
-  "apk": "apk/Stundenbuch-2.7.apk",
-  "sha256": "4a681cb8e2f3a75d521aa1f0dde8747afd9f6a5c47f21e41fcdf2fe580ce4da7",
+  "versionCode": 28,
+  "versionName": "2.7.1",
+  "apk": "apk/Stundenbuch-2.7.1.apk",
+  "sha256": "e2980f83e889123da67a9b5dcfd6240325607625d9bf443bf81a379faaffd297",
   "date": "2026-10-30",
   "notes": [
-    "Updates direkt in der App: Einstellungen → App & Updates",
-    "Download-Link mit Freunden teilen",
-    "Draußen/drinnen im Kalender und bei den Wetter-Erfolgen",
-    "Wetter-Auswertung und persönliche Erfolge"
+    "Neues App-Symbol"
   ]
 }
