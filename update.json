@@ -1,12 +1,11 @@
 {
-  "versionCode": 30,
-  "versionName": "2.9",
-  "apk": "apk/Stundenbuch-2.9.apk",
-  "sha256": "9a41e56eecc98b71798401512f1977addb38fb6f8a6151fbb9238a8385c12cad",
+  "versionCode": 31,
+  "versionName": "3.0",
+  "apk": "apk/Stundenbuch-3.0.apk",
+  "sha256": "07a4afb934b90b82adfeacbde92c814f50582f90664294b38b80591e5d9ce754",
   "date": "2026-10-31",
   "notes": [
-    "Eigenes Design: Farben selbst wählen und ein eigenes Hintergrundbild (Einstellungen → Darstellung → 🎨 Eigenes)",
-    "Nach einem Update zeigt die App einmal, was neu ist",
-    "Download-Seite mit Versionsverlauf und neuen Bildern"
+    "Fehler melden und Verbesserungen vorschlagen – direkt aus der App (Hauptmenü → Feedback oder Einstellungen → App & Updates)",
+    "Technische Infos helfen beim Finden von Fehlern – Arbeitszeiten, Orte und Beträge werden nie mitgeschickt"
   ]
 }
