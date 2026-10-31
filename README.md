@@ -5,7 +5,7 @@
 **Deine Arbeitszeit, Stundenzettel, Urlaub und Überstunden – in einer App.**
 Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf deinem Handy.
 
-### [⬇️ Stundenbuch 2.7.1 herunterladen](https://github.com/games-yves-mrichter-droid/stundenbuch-updates/raw/main/Stundenbuch.apk)
+### [⬇️ Stundenbuch 2.8 herunterladen](https://github.com/games-yves-mrichter-droid/stundenbuch-updates/raw/main/Stundenbuch.apk)
 
 <p align="center">
   <img src="screenshots/01_hauptmenue.png" width="32%" alt="Hauptmenü">
@@ -85,7 +85,10 @@ Für Android, kostenlos, ohne Konto und ohne Werbung. Deine Daten bleiben auf de
 
 Android 7 oder neuer.
 
-## Neu in 2.7.1
+## Neu in 2.8
 
-- Neues App-Symbol
+- Überstundenkonto mit Verlauf: Monat für Monat sehen, wie viele Überstunden du erarbeitet und wofür du sie genutzt hast
+- Überstunden auszahlen lassen: Stunden und Stundenlohn eintragen – die Summe wird ausgerechnet
+- Überstundenkonto bearbeiten: Kontostand festlegen oder Stunden hinzufügen/abziehen
+- Auszahlungen und Korrekturen stehen auch auf dem Stundenzettel
 
