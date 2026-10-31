@@ -1,13 +1,12 @@
 {
-  "versionCode": 29,
-  "versionName": "2.8",
-  "apk": "apk/Stundenbuch-2.8.apk",
-  "sha256": "0a3cc8755670cd5d6978702d86243006d6285d45965ff9f42f0fdf82c0e186b2",
+  "versionCode": 30,
+  "versionName": "2.9",
+  "apk": "apk/Stundenbuch-2.9.apk",
+  "sha256": "9a41e56eecc98b71798401512f1977addb38fb6f8a6151fbb9238a8385c12cad",
   "date": "2026-10-31",
   "notes": [
-    "Überstundenkonto mit Verlauf: Monat für Monat sehen, wie viele Überstunden du erarbeitet und wofür du sie genutzt hast",
-    "Überstunden auszahlen lassen: Stunden und Stundenlohn eintragen – die Summe wird ausgerechnet",
-    "Überstundenkonto bearbeiten: Kontostand festlegen oder Stunden hinzufügen/abziehen",
-    "Auszahlungen und Korrekturen stehen auch auf dem Stundenzettel"
+    "Eigenes Design: Farben selbst wählen und ein eigenes Hintergrundbild (Einstellungen → Darstellung → 🎨 Eigenes)",
+    "Nach einem Update zeigt die App einmal, was neu ist",
+    "Download-Seite mit Versionsverlauf und neuen Bildern"
   ]
 }
